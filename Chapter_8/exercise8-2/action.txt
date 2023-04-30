@@ -1,0 +1,3 @@
+Fire,Controller,A
+Open,Controller,B
+Jump,Controller,C
